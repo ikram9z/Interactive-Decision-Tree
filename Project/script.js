@@ -1,5 +1,3 @@
-// script.js
-
 // Event listener for button click
 document.getElementById('submit-button').addEventListener('click', generateRecommendation);
 

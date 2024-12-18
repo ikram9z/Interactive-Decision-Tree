@@ -28,5 +28,4 @@ This project is a simple, interactive decision tree built with HTML, CSS, and Ja
 - Use animations for transitioning between questions.
 - Implement backend storage to save user preferences and results.
 
-## License
-This project is licensed under the MIT License.
+

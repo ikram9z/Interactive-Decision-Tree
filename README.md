@@ -17,10 +17,11 @@ This project is a simple, interactive decision tree built with HTML, CSS, and Ja
 
 
 ## Setup
-1. Select code (green)
-2. Click on download zip .
-3. Unzip the project and select open with vs code.
-4. Run index.html
+1. Go to https://github.com/ikram9z/Interactive-Decision-Tree
+2. Select code (green)
+3. Click on download zip .
+4. Unzip the project and select open with vs code.
+5. Run index.html
 
 ## Future Improvements
 - Add more detailed and varied recommendations.

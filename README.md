@@ -1,7 +1,7 @@
 # Interactive-Decision-Tree# 
 
 ## Description
-This project is a simple, interactive decision tree built with vanilla HTML, CSS, and JavaScript. It guides users through a series of questions to provide a personalized travel recommendation.
+This project is a simple, interactive decision tree built with HTML, CSS, and JavaScript. It guides users through a series of questions to provide a personalized travel recommendation.
 
 ## Features
 - Responsive design for mobile and desktop.

@@ -17,12 +17,10 @@ This project is a simple, interactive decision tree built with HTML, CSS, and Ja
 
 
 ## Setup
-1. Clone the repository:
-git clone https://github.com/yourusername/interactive-decision-tree.git
-
-markdown
-Copy code
-2. Open `index.html` in your browser.
+1. Select code (green)
+2. Click on download zip .
+3. Unzip the project and select open with vs code.
+4. Run index.html
 
 ## Future Improvements
 - Add more detailed and varied recommendations.
